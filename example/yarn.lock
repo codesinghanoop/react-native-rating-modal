@@ -2940,6 +2940,12 @@ react-devtools-core@^2.0.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-rating-modal@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-rating-modal/-/react-native-rating-modal-1.0.0.tgz#ecf884bcca4d5649a314d5cee9a9ae4671684a92"
+  dependencies:
+    react-native-vector-icons "^4.1.1"
+
 react-native-vector-icons@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-4.1.1.tgz#9ac75bde77d9243346668c51dca7756775428087"

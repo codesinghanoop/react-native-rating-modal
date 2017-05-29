@@ -13,7 +13,7 @@ import {
   TouchableHighlight
 } from 'react-native';
 
-import Modal from './index.js'
+import Modal from 'react-native-rating-modal'
 
 export default class example extends Component {
   
